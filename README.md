@@ -1,6 +1,3 @@
-#Resume
-Download resume for proper rendering.
-
 #Code Sample
 A sample of Wolfram Language code from the `master-functions` repo. 
 These functions transform tensor integrals into equivalent sums of 
