@@ -7,7 +7,7 @@ These functions transform tensor integrals into equivalent sums of
 simpler scalar integrals. See `README.pdf` in the `CodeSample` 
 directory for more detailed information.
 
-###Overview of Techniques:
+###Optimization Techniques:
 - Nearly all of our subroutines harness the parallel computing capabilities 
 of the Wolfram Language. Namely, the `ParallelTable` function was used 
 generously. 
