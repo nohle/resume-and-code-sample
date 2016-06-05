@@ -4,7 +4,7 @@
 A sample of code pulled from our MasterFunctions.m
 Wolfram Language package. For full functional code, 
 one should go to the MasterFunctions repo. 
-At a few points, the functions dispalyed herein call
+At a few points, the functions displayed herein call
 other functions from MasterFunctions.m---such as
 "GetVars," which is similar to the native "Variables" 
 function---as well as utilize some variables from
@@ -12,7 +12,7 @@ MasterFunctions.m such as "distributedContexts".
 However, these calls are rare and should not affect 
 the flow of the code in any material way.
 
-See "TensorReduction.pdf" for a detailed explanation.
+See “README.pdf" for a detailed explanation.
 
 This file is best viewed with Mathematica, but may
 be viewed with a standard text editor.
